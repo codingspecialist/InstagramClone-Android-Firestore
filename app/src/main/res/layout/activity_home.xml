@@ -7,6 +7,8 @@
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
 
+    <!--FileName Convention - <type-position-viewName> -->
+
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">

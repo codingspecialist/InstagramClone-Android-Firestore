@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:title="홈">
+
+    </item>
+    <item
+        android:id="@+id/ic_search"
+        android:icon="@drawable/ic_search"
+        android:title="검색">
+
+    </item>
+    <item
+        android:id="@+id/ic_add"
+        android:icon="@drawable/ic_add"
+        android:title="추가">
+
+    </item>
+    <item
+        android:id="@+id/ic_favorite"
+        android:icon="@drawable/ic_favorite"
+        android:title="좋아요">
+
+    </item>
+    <item
+        android:id="@+id/ic_person"
+        android:icon="@drawable/ic_person"
+        android:title="회원정보">
+
+    </item>
+</menu>
